@@ -1,3 +1,3 @@
 # JSwayExercises
 
-Following along to [the JS Way](https://github.com/thejsway/thejsway)
+Coding along to [JSway](https://github.com/thejsway/thejsway)
