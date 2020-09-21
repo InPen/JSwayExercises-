@@ -1,1 +1,5 @@
 console.log('Hello from JavaScript')
+console.log('Mathematical!')
+console.log(5*9634)
+console.log(5/3)
+console.log('Adios muchacho')
