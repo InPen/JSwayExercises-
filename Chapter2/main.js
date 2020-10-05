@@ -14,7 +14,9 @@ for(let i=0; i <= names.length; i++){
   console.log(i);
   console.log(`Hi, my name is ${names[i]}. How are you?`);
 }
-
+names.forEach(name => {
+  console.log(`Hi, my name is ${name}. How are you?`);
+})
 //USER INTERACTIONS
 // const greeting = prompt("Enter your first name:");
 // alert(`Hello, ${name}`);
