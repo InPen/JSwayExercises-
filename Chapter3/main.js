@@ -26,3 +26,15 @@
 //     console.log("x = def");
 //     break;
 // }
+
+
+//Write a program that accepts a day name from the user, then shows the name of the following day.
+//Incorrect inputs must be taken into account.
+
+const week = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+const dayOfWeek(prompt("What day of the week is today?:"))
+if(dayOfWeek === week){
+  console.log('then tommorow must be ${week[i]+1}');
+} else {
+  console.log('Uuum, yea that is not a day of the week, homie');
+}
