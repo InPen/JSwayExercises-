@@ -37,3 +37,13 @@ const min = (num1, num2) => {
 console.log(min(4.5, 5)); // Must show 4.5
 console.log(min(19, 9));  // Must show 9
 console.log(min(1, 1));   // Must show 1
+
+
+// Write a program containing two functions to calculate the circumference and area of a circle defined by its radius. Test it using user input.
+const circumference = (radius) => {2*Math.PI*radius}
+const area = (radius) => {Math.PI*radius*2}
+// Here are some tips for solving this exercise:
+
+// Circumference and area calculation formulas should be part of your secondary school memories... Or a Google click away :)
+// The value of number π (Pi) is obtained with Math.PI in JavaScript.
+// You might want to use the exponentiation operator ** to perform computations.
