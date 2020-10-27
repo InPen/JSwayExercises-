@@ -55,3 +55,6 @@ const bankAccount = {
   }
 }
 console.log(bankAccount.describe());
+// for(const key of bankAccount){
+//   console.log(key);
+// }
