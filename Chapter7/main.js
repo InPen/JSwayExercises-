@@ -45,11 +45,6 @@ for(const value of values){
 //Write a program that creates the following array, then calculates and shows the array's maximum value.
 
 const values = [3, 11, 7, 2, 9, 10]
-if(values[i] <= values[i]){
-
-}else (values[i] => values[i]){
-
-}
-
+console.log(Mat.max(values))
 
 //Write a program that asks the user for a word until the user types "stop". The program then shows each of these words, except "stop".
